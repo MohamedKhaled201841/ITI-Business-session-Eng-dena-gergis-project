@@ -1,7 +1,7 @@
 ITI-Business-session-Eng-dena-gergis-project
 ==============================
 
-this is a demo projec[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp a fictional IT institude to choose its courses better to coup with new technologies which keep evolving quickly
+this is a demo projec of fictional IT institude to choose its courses better to coup with new technologies which keep evolving quickly
 
 Project Organization
 ------------
