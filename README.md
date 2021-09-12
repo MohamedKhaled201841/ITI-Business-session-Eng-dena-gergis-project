@@ -2,6 +2,7 @@ ITI-Business-session-Eng-dena-gergis-project
 ==============================
 
 this is a demo projec of fictional IT institude to choose its courses better to coup with new technologies which keep evolving quickly
+and you will find the data into docs/
 
 Project Organization
 ------------
